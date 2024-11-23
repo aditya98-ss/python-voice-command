@@ -39,6 +39,3 @@ Date and time are set by default, you cannot add this command in "data.ar" file
 
 ## Programming languages used
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
-## Authors
-$	[@abhineetraj1](https://github.com/abhineetraj1)
